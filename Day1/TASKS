@@ -1,0 +1,6 @@
+1. Undertand the difference Between Poorly and Properly Designed class 
+2. Fix broken code 
+3. Create Enemy object -> Dragon ("Drakisath", hp 2000, attack 120, type dragon) , pay attention my parameter order is wrong 
+4. Create Enemy object -> Beholder ("Drakisath", hp 2000, attack 120, type dragon) , pay attention my parameter order is wrong 
+5. Create a NEW CLASS player with constructor  [name  , age , account_email ](ask chatGPT whats constructor for 5 y/o in russian with examples and keep asking untill you get it !) 
+6. explain what "self" means in python 
